@@ -1,31 +1,13 @@
-## Welcome to GitHub Pages
+# IHM Project
 
-You can use the [editor on GitHub](https://github.com/Guignet/IHMProjet.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```c
-
-int test(int a){
-return a*2;
-}
-
-int main(){
-  printf("%d\n",test(21));
-  return 0;
-}
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Guignet/IHMProjet.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Questionnaire
+- Quand est-ce que vous avez utilisé une carte (physique) pour la dernière fois ?
+- Dans quel contexte l’avez-vous utilisée ?
+- A quelle fréquence utilisez-vous des cartes ?
+- Quelle est la dernière application avec une carte que vous avez utilisé ? (maps, ratp, airbnb…) 
+- Dans quel contexte l’avez-vous utilisée ?
+- A quelle fréquence l'utilisez-vous ?
+- Dans le métro, vous arrive-t-il de vous orienter avec une des cartes mise à votre disposition ? Si oui, à quelles occasions ? Si non, pourquoi pas ?
+- Avez-vous une anecdote en relation avec l’utilisation d’une carte? Une fois où vous avez été mal orienté, ou vous vous êtes perdus, ou bien ça vous a sauvé la mise etc.? 
+- Pour vous orienter dans un endroit que vous ne connaissez pas, préférez-vous utiliser une carte physique ou une application ? Pourquoi privilégiez-vous ce moyen plutôt que l’autre ?
+- Pouvez-vous citer 3 domaines d'utilisation de cartes ? 
