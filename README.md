@@ -3,7 +3,7 @@
 
 >> Auteurs:
 Basile Musquer,
-Marius Lechapelier,
+Marius Le Chapelier,
 Damien Marillet,
 Guillaume Peugnet,
-Mouna Benabid,
+Mouna Benabid
