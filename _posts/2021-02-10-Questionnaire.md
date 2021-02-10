@@ -1,8 +1,3 @@
----
-layout: post
-title: Blogging Like a Hacker
----
-
 # Questions 
 - Quand est-ce que vous avez utilisé une carte (physique) pour la dernière fois ?
 - Dans quel contexte l’avez-vous utilisée ?
