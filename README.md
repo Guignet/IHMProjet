@@ -2,8 +2,8 @@
 ## Sorbonne Université, Hiver 2021
 
 >> Auteurs:
-Basile Musquer
-Marius Lechapelier
-Damien Marillet
-Guillaume Peugnet
-Mouna
+Basile Musquer,
+Marius Lechapelier,
+Damien Marillet,
+Guillaume Peugnet,
+Mouna Benabid,
