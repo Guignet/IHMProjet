@@ -33,7 +33,7 @@ Lors de cette semaine nous avons discuté de nos interviews et ressorti plusieur
 - Précision des cartes en fonction du zoom + dimensions des cartes numériques
 - On utilise les cartes que lorsqu'on a un besoin clair (aller d'un point A à un point B ou recherche d'un endroit), pas d'incitation à l'utiliser sans avoir un besoin préalable
 
-Nous avons donc créé des [personnas](https://github.com/Guignet/IHMProjet.io/tree/main/Semaine_2) issue de ces interviews
+Nous avons donc créé [des personnas et des scénarios](https://github.com/Guignet/IHMProjet.io/tree/main/Semaine_2) issue de ces interviews
 
 ## Semaine 3 
 ### Premier Brainstorming
