@@ -14,8 +14,7 @@
 - Pour vous orienter dans un endroit que vous ne connaissez pas, préférez-vous utiliser une carte physique ou une application ? Pourquoi privilégiez-vous ce moyen plutôt que l’autre ?
 - Pouvez-vous citer 3 domaines d'utilisation de cartes ? 
 
-Vous trouverez ci-joint un lien menant aux interviews effectué lors de la première semaine 
-[Semaine 1 Interview](https://github.com/Guignet/IHMProjet.io/tree/main/Semaine_1)
+Vous trouverez ci-joint un lien menant aux interviews effectué lors de la [première semaine](https://github.com/Guignet/IHMProjet.io/tree/main/Semaine_1).
 
 ## Semaine 2
 ### Personna et Scénario 
