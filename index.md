@@ -17,3 +17,24 @@
 Vous trouverez ci-joint un lien menant aux interviews effectué lors de la première semaine 
 [Semaine 1 Interview](https://github.com/Guignet/IHMProjet.io/tree/main/Semaine_1)
 
+## Semaine 2
+### Personna et Scénario 
+Lors de cette semaine nous avons discuté de nos interviews et ressorti plusieurs problèmes : 
+
+
+- mise-à-jour des cartes 
+- faire le lien entre le visuel et la carte
+- Cartes qui se déchirent (avec l’humidité)
+- Téléphones qui épuisent leur batterie.
+- Lecture des cartes papiers non intuitives
+- Les plans des stations de ski… Claqué au sol
+- Pas de cartes des places de parking gratuits
+- Nombre, qualité et précision des éléments sur la carte (en fonction du zoom)
+- Précision des cartes en fonction du zoom + dimensions des cartes numériques
+- On utilise les cartes que lorsqu'on a un besoin clair (aller d'un point A à un point B ou recherche d'un endroit), pas d'incitation à l'utiliser sans avoir un besoin préalable
+
+Nous avons donc créé des [personnas](https://github.com/Guignet/IHMProjet.io/tree/main/Semaine_2) issue de ces interviews
+
+## Semaine 3 
+### Premier Brainstorming
+
