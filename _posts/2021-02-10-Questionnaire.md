@@ -1,3 +1,7 @@
+layout: post
+title: "Questionnaire"
+permalink: /_post/2021-02-10-Questionnaire/
+
 # Questions 
 - Quand est-ce que vous avez utilisé une carte (physique) pour la dernière fois ?
 - Dans quel contexte l’avez-vous utilisée ?
