@@ -1,6 +1,7 @@
 layout: post
 title: "Questionnaire"
-permalink: /_post/2021-02-10-Questionnaire/
+date: 2021-02-10 08:59:00 -0000
+categories: Question
 
 # Questions 
 - Quand est-ce que vous avez utilisé une carte (physique) pour la dernière fois ?
