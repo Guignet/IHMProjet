@@ -5,6 +5,10 @@
 
 Le projet sur lequel nous allons travailler se fait dans le cadre de l'UE IHM du Master ANDROIDE de Sorbonne Université. Il consiste à concevoir, évaluer et reconcevoir un système interactif sous la forme d’un prototype vidéo. Le système devra répondre aux besoins d’**utilisateurs réels** dans un **contexte réel**. Cette année, on choisira une application de cartes.
 
+#### Équipe
+
+Ce projet sera mené par les membres du groupe 2, Mouna Benabid, Marius Le Chapelier, Damien Marillet et Basile Musquer.
+
 ### INTROSPECTION
 
 Une première discussion sur le sujet des cartes physiques et applications de cartes a été entreprise. Parmi les problèmes relevés, on peut citer celui du *lien visuel entre la carte et nos alentours*. Cependant, cela n'a pas permi d'établir un thème et une orientation pour notre projet. Nous ferons donc des interviews au cours de la semaine, qui nous permettrons d'évaluer les besoins d'utilisateurs réels et d'en ressortir des problèmes sur lesquels nous pourrons nous pencher.
