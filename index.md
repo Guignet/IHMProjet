@@ -133,6 +133,6 @@ Nous avons débuté la séance en réfléchissant à un scenario qui mettrait en
 
 ### VIDEO PROTOTYPE
 
-Nous nous sommes appuyés sur le storyboard pour créer une [vidéo prototype](https://github.com/Guignet/IHMProjet.io/blob/main/Semaine_4/Videos/Prototype1_v1.mp4). L'acteur principal choisi pour cette vidéo est Damien Marillet.
+Nous nous sommes appuyés sur le storyboard pour créer une [vidéo prototype](https://www.youtube.com/watch?v=X9e-JnWtano). L'acteur principal choisi pour cette vidéo est Damien Marillet.
 
 {% include youtubePlayer.html id=page.X9e-JnWtano %}
