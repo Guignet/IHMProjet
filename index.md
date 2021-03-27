@@ -135,4 +135,4 @@ Nous avons débuté la séance en réfléchissant à un scenario qui mettrait en
 
 Nous nous sommes appuyés sur le storyboard pour créer une [vidéo prototype](https://www.youtube.com/watch?v=X9e-JnWtano). L'acteur principal choisi pour cette vidéo est Damien Marillet.
 
-{% include youtubePlayer.html id=page.X9e-JnWtano %}
+{% include youtubePlayer.html id=X9e-JnWtano %}
