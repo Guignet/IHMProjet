@@ -103,7 +103,7 @@ Nous avons repris la liste de problèmes relevés la semaine précédente pour p
 
 > *Idée 8 :* Surface extensible de smartphone (écran déroulable) qui règle les soucis de dimensions de l’écran particulièrement problématique pour l’utilisation des cartes.
 
-#### Problème des cartes de ski
+##### Problème des cartes de ski
 > *Idée 9 :* Avec des cartes interactives en bas des pistes où on peut se déplacer pour observer l’environnement (sorte de streetview).
 
 ##### Idées folles
@@ -122,6 +122,7 @@ Nous avons repris la liste de problèmes relevés la semaine précédente pour p
 >   * Écran déroulable,
 >   * Écran souple.
 > - Surface hydrophobe.
+
 Nous avons également réalisé des [sketchs](https://github.com/Guignet/IHMProjet.io/tree/main/Semaine_3/Sketchs) illustrant notre idée finale.
 
 ## Semaine 4 (3 Mars)
@@ -133,3 +134,5 @@ Nous avons débuté la séance en réfléchissant à un scenario qui mettrait en
 ### VIDEO PROTOTYPE
 
 Nous nous sommes appuyés sur le storyboard pour créer une [vidéo prototype](https://github.com/Guignet/IHMProjet.io/blob/main/Semaine_4/Videos/Prototype1_v1.mp4). L'acteur principal choisi pour cette vidéo est Damien Marillet.
+
+{% include youtubePlayer.html id=page.X9e-JnWtano %}
