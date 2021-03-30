@@ -143,4 +143,4 @@ Nous nous sommes appuyés sur le storyboard pour créer une [vidéo prototype](h
 
 #### Deuxième prototype
 
-Afin de montrer notre concept d'exploration d'équipe permise par l'alliance d'un produit à petite surface, nous avons fait une deuxième [vidéo prototype](https://www.youtube.com/watch?v=p3hN1eKSE2I). Les acteurs qui apparaissent sont Marius Le Chapelier et Gaston Le Chapelier.
+Afin de montrer notre concept d'exploration d'équipe permise par l'alliance à un produit à petite surface, nous avons fait une deuxième [vidéo prototype](https://www.youtube.com/watch?v=p3hN1eKSE2I). Les acteurs qui apparaissent sont Marius Le Chapelier et Gaston Le Chapelier.
