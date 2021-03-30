@@ -125,9 +125,13 @@ Nous avons repris la liste de problèmes relevés la semaine précédente pour p
 
 Nous avons également réalisé des [sketchs](https://github.com/Guignet/IHMProjet.io/tree/main/Semaine_3/Sketchs) illustrant notre idée finale.
 
-### DEUXIÈME ITÉRATION
+#### Deuxième itération
 
 A l'issue d'une deuxième itération de notre brainstorming, nous avons pensé à un contraste à notre idée d'*extension de la surface*, avec un produit qui, au contraire, apporterait des solutions dans un format *plus petit*. Parmi nos idées s'est démarquée celle d'allier un produit plus petit à notre surface extensible, afin de *permettre une communication de direction plus efficace, **particulièrement en cas de randonnées***. On apporterait ainsi un concept d'*équipe* à la randonnée.
+
+### WEB SEARCH
+
+Nous avons fait des recherches pour nous renseigner sur le papier extensible et papier électronique, ce qui nous a permi d'imaginer un support tel que présenté au-dessus.
 
 ## Semaine 4 (3 Mars)
 
