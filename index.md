@@ -125,6 +125,10 @@ Nous avons repris la liste de problèmes relevés la semaine précédente pour p
 
 Nous avons également réalisé des [sketchs](https://github.com/Guignet/IHMProjet.io/tree/main/Semaine_3/Sketchs) illustrant notre idée finale.
 
+### DEUXIÈME ITÉRATION
+
+A l'issue d'une deuxième itération de notre brainstorming, nous avons pensé à un contraste à notre idée d'*extension de la surface*, avec un produit qui, au contraire, apporterait des solutions dans un format *plus petit*. Parmi nos idées s'est démarquée celle d'allier un produit plus petit à notre surface extensible, afin de *permettre une communication de direction plus efficace, **particulièrement en cas de randonnées***. On apporterait ainsi un concept d'*équipe* à la randonnée.
+
 ## Semaine 4 (3 Mars)
 
 ### STORYBOARD
@@ -133,6 +137,10 @@ Nous avons débuté la séance en réfléchissant à un scenario qui mettrait en
 
 ### VIDEO PROTOTYPE
 
-Nous nous sommes appuyés sur le storyboard pour créer une [vidéo prototype](https://www.youtube.com/watch?v=X9e-JnWtano). L'acteur principal choisi pour cette vidéo est Damien Marillet.
+#### Premier prototype
 
-{% include youtubePlayer.html id=X9e-JnWtano %}
+Nous nous sommes appuyés sur le storyboard pour créer une [vidéo prototype](https://www.youtube.com/watch?v=X9e-JnWtano) mettant en scène les fonctionnalités de notre produit à surface extensible et transparente. L'acteur principal choisi pour cette vidéo est Damien Marillet.
+
+#### Deuxième prototype
+
+Afin de montrer notre concept d'exploration d'équipe permise par l'alliance d'un produit à petite surface, nous avons fait une deuxième [vidéo prototype](https://www.youtube.com/watch?v=p3hN1eKSE2I). Les acteurs qui apparaissent sont Marius Le Chapelier et Gaston Le Chapelier.
