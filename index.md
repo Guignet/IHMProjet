@@ -148,3 +148,7 @@ Nous nous sommes appuyés sur le storyboard pour créer une [vidéo prototype](h
 #### Deuxième prototype
 
 Afin de montrer notre concept d'exploration d'équipe permise par l'alliance à un produit à petite surface, nous avons fait une deuxième [vidéo prototype](https://www.youtube.com/watch?v=p3hN1eKSE2I). Les acteurs qui apparaissent sont Marius Le Chapelier et Gaston Le Chapelier.
+
+## Soutenance (31 Mars)
+
+Nous avons finalement présenté notre projet en détaillant notre processus de conception ainsi que nos résultats lors d'une soutenance. Voici notre [support de présentation](https://github.com/Guignet/IHMProjet.io/blob/main/Pr%C3%A9sentation/presentation.pdf).
